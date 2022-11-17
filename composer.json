@@ -1,0 +1,10 @@
+{
+    "name": "zlatnii/mvc",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./",
+            "Zlatnii\\Mvc\\": "src/"
+        }
+    },
+    "require": {}
+}
